@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72651665215",
+    "project_id": "abyssinia-pharmacy",
+    "storage_bucket": "abyssinia-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72651665215:android:768fb3d483b24573052d8a",
+        "android_client_info": {
+          "package_name": "com.example.abyssinia_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3LmHfd4R1SqX2W2AN6S4E_L7NGJNs0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
